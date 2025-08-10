@@ -30,5 +30,5 @@ Some of the key prompts given to AI during development:
 - Responsive Material 3 UI.
 
 ## 📦 APK Download
-[Download APK](https://example.com/apk-link)  
+[Download APK](https://github.com/venkatchalapathi/expense-tracker/raw/refs/heads/main/app-debug.apk)  
 *(Replace with actual hosted link)*
